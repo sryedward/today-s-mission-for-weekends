@@ -1,4 +1,4 @@
-# today-s-mission-for-weekends
+# today's-mission-for-weekends
 # 🎡 다국어 스타일 휠 | 多语言风格罗盘
 
 > 오늘의 스타일을 결정하는 재미있는 휠 | 趣味转盘决定今日风格
